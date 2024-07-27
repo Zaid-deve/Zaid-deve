@@ -1,11 +1,11 @@
-[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN-yWUsZN0-QcoYFqpqPErWrRejpbxYLO93Q&usqp=CAU](https://media.licdn.com/dms/image/C5112AQEoq9MxhwjOcA/article-cover_image-shrink_600_2000/0/1558900050534?e=2147483647&v=beta&t=S151jyZ2WZGWLfHpE9wj8W4_o1XIflHWJBk881m9R2Y))](https://Zaid-deve.io)
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)](https://Zaid-deve.io)
 <h1 align="center">Hi 👋, I'm Zaid Patel</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaid-deve&label=Profile%20views&color=0e75b6&style=flat" alt="zaid-deve" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaid-deve" alt="zaid-deve" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207">
 
 
 - 🌱 I’m currently learning **laravel, SCSS, tailwind**
