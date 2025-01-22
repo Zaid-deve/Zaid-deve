@@ -1,5 +1,20 @@
-# 💫 About Me:
-I'm a passionate Web Developer with a strong foundation in both frontend and backend technologies.<br>I love building scalable, user-friendly, and efficient web applications that solve real-world problems.
+#👋 Hi, I'm Zaid Patel
+I'm a passionate Web Developer with a strong foundation in both frontend and backend technologies. I love building scalable, user-friendly, and efficient web applications that solve real-world problems.
+
+# 🚀 What I Do:
+Frontend Development: React, AngularJS, HTML, CSS, JavaScript
+Backend Development: PHP, Node.js, RESTful APIs
+Databases: MySQL, MongoDB
+Other Skills: Website Design, Real-Time Applications, Authentication Systems
+
+# 💻 Projects I've Worked On:
+Real-Time Communication App: A platform enabling video/audio calls with WebRTC and WebSockets.
+Cloud Storage Solution: Built with PHP and Backblaze B2 API for efficient data management.
+Facebook Video Downloader: A real-time video downloading tool using React and PHP.
+Chat Application: A real-time messaging app with media sharing features using React and Node.js.
+
+🎯 What I'm Currently Working On:
+Exploring advanced cloud solutions and improving my skills in real-time applications to create high-performance web platforms.
 
 
 # 💻 Tech Stack:
