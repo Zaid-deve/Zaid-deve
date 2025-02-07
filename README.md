@@ -2,7 +2,8 @@
 I'm a passionate Web Developer with a strong foundation in both frontend and backend technologies. I love building scalable, user-friendly, and efficient web applications that solve real-world problems.
 
 # 🙌 My Portfolio
-![my portfolio website](https://portfolio1-five-wheat.vercel.app/)
+[my portfolio website](https://portfolio1-five-wheat.vercel.app/)
+
 
 # 🚀 What I Do:
 Frontend Development: React, AngularJS, HTML, CSS, JavaScript
